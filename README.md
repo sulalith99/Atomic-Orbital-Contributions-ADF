@@ -13,7 +13,7 @@
 * in order to generate the _.csv_ required in this step, utilize the _**atomic_orbital_contributor.xlsx**_ Excel file (A copy of the document is available here)!
 * using the .csv file in this section, you can accurately trim it and use it for the last section 😀.
 
-**_Section III: Atomic orbital contribution plot_**
+**_3. Section III: Atomic orbital contribution plot_**
 * using the data obtained from earlier sections, we will create the atomic orbital contribution plot ⚛️📈 in this section.
 * the _final.csv_ file is the only crucial document in this section.
 * it's important to remember that, based on the results, you might need to make a few changes in this section (such as changing the arrow direction from one orbital to the next).
