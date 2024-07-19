@@ -20,4 +20,4 @@
 
 * finally, you will get the figure,
   
-![aoc(364nm)-diadm-b3lyp-dz-none-stddft](https://github.com/user-attachments/assets/5abeabf6-c623-4013-ab5f-d39c7c0c11f5)
+![aoc(383nm)-diadm-b3lyp-dz-dcm-stddft](https://github.com/user-attachments/assets/a844343a-7ee1-4497-929b-14f22bc7e560)
