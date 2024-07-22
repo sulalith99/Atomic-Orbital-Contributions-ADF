@@ -23,3 +23,6 @@
 ![aoc(383nm)-diadm-b3lyp-dz-dcm-stddft](https://github.com/user-attachments/assets/a844343a-7ee1-4497-929b-14f22bc7e560)
 
 * **Important things 🧐**
+  
+* if you need to specify transition percentages (or even include a text in the graph), the following line might come handy😉!
+  plt.text(_<x_coordinates>_, _<y_coordinates>_, '_<your_text>_')
