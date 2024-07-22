@@ -25,4 +25,4 @@
 * **Important things 🧐**
   
 * if you need to specify transition percentages (or even include a text in the graph), the following line might come handy😉!
-  plt.text(_<x_coordinates>_, _<y_coordinates>_, '_<your_text>_')
+  **plt.text(_<x_coordinates>_, _<y_coordinates>_, '_<your_text>_')**
