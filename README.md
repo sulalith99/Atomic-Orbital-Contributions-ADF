@@ -21,3 +21,5 @@
 * finally, you will get the figure,
   
 ![aoc(383nm)-diadm-b3lyp-dz-dcm-stddft](https://github.com/user-attachments/assets/a844343a-7ee1-4497-929b-14f22bc7e560)
+
+* **Important things**https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/lottie.json
