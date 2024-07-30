@@ -27,3 +27,5 @@
 1. if you need to specify transition percentages (or even include a text in the graph), the following line might come handy😉!
 
     **plt.text(_<x_coordinates>_, _<y_coordinates>_, '_<your_text>_')**
+
+2. looking for some examples 🔍? what is the input file looks like 🧐? no worries, check the _**Examples**_ folder, where you can find an example _adf.out_ files that can be used in the first section 😆!
